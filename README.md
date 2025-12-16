@@ -1,4 +1,4 @@
-# AMC Shift Scheduler
+# AMC Shift Scheduler (Virsic Solution's RosterAI)
 
 ## Overview
 AMC Shift Scheduler is a sophisticated employee scheduling tool designed specifically for restaurant and hospitality businesses. This application uses constraint programming to automatically generate optimal monthly work schedules while balancing operational requirements and employee preferences.
